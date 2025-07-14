@@ -1,5 +1,9 @@
   //Editar evento
-  //agragar imagen
+  //agregar imagen
   //crear evento
   // todo se guarda en json-server
+
   //guardian (Router)
+
+  // visitor no funciona
+  // cuando agragre los eventos, que se vean en la vista del visitor
